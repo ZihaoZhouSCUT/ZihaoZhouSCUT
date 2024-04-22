@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi! I am Zihao Zhou👋
 
-- 🔭 Studying in **South China University of Technology**.
+- 🔭 Pursuing a master's degree in **South China University of Technology**.
 - 🌱 My research interests includes **UAV swarm network**, **wireless communication** and **network protocol**.
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
 - 📫 How to reach me: eezihaozhou@gmail.com
