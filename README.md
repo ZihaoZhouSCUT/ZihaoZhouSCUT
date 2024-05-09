@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
 - 📫 How to reach me: eezihaozhou@gmail.com
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZihaoZhouSCUT)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
