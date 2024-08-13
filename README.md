@@ -3,10 +3,6 @@
 
 Here are some ideas to get you started:  
 
----
-xx
-
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
@@ -17,6 +13,10 @@ xx
 -->
 
 # Hi! I am Zihao Zhou👋
+
+## EDUCATION
+**South China University of Technology(SCUT)**, Guangzhou, China.<br />
+*Candidate for Master’s Degree in Communication and Information Systems*
 
 - 🔭 Pursuing a master's degree in **South China University of Technology**.
 - 🌱 My research interests includes **UAV swarm network**, **wireless communication** and **network protocol**.
