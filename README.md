@@ -35,4 +35,4 @@ My research interests include **UAV network**, **Wireless communication**, **Net
 ## COOPERATION AND CONTACT
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
 - 📫 How to reach me: eezihaozhou@gmail.com or 202220111769@mail.scut.edu.cn
-- 🤝 New partners are always welcome to join the development of “FlyNet” platform!
+- 🤝 New partners are always welcome to join the development of “FlyNet” platform! https://github.com/ZihaoZhouSCUT/Simulation-Platform-for-UAV-network 
