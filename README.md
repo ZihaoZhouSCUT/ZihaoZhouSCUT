@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - J. Tang, Z. Peng, **Z. Zhou**, D. K. C. So, X. Zhang and K. -K. Wong, “Energy-Efficient Resource Allocation for IRS-aided MISO System with SWIPT,” in *2022 IEEE Global Communications Conference (GLOBECOM)*, 2022, pp. 3217-3222.
 - **Z. Zhou**, S. Wen and W. Guan, “RSE-based optical camera communication in underwater scenery with bubble degradation,” in *2021 Optical Fiber Communication Conference (OFC)*, 2021, pp. M2B-2.
 
-## ABOUT ME
-- 🔭 Pursuing a master's degree in **South China University of Technology**.
-- 🌱 My research interests includes **UAV swarm network**, **wireless communication** and **network protocol**.
+## RESEARCH INTERESTS
+My research interests include **UAV network**, **Wireless communication**, **Network protocol** and **Internet of things (IoT)**.
+
+## COOPERATION AND CONTACT
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
 - 📫 How to reach me: eezihaozhou@gmail.com or 202220111769@mail.scut.edu.cn
+- 🤝 New partners are always welcome to join the development of “FlyNet” platform!
