@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - **Z. Zhou**, J. Tang, W. Feng and K. -K. Wong, “Energy-aware Routing Protocol for UAV Electronic Warfare using Graph Attention and Fuzzy Reward,” in *2023 IEEE Global Communications Conference (GLOBECOM)*, 2023, pp. 1860-1865.
 - J. Tang, **Z. Zhou**, W. Feng and K. -K. Wong, “A Distributed and Adaptive Routing Protocol for UAV-aided Emergency Networks,” in *2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)*, 2023, pp. 1-6.
 - J. Tang, Z. Peng, **Z. Zhou**, D. K. C. So, X. Zhang and K. -K. Wong, “Energy-Efficient Resource Allocation for IRS-aided MISO System with SWIPT,” in *2022 IEEE Global Communications Conference (GLOBECOM)*, 2022, pp. 3217-3222.
+- **Z. Zhou**, S. Wen and W. Guan, “RSE-based optical camera communication in underwater scenery with bubble degradation,” in *2021 Optical Fiber Communication Conference (OFC)*, 2021, pp. M2B-2.
 
 ## ABOUT ME
 - 🔭 Pursuing a master's degree in **South China University of Technology**.
