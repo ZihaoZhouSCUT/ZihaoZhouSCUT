@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I am Zihao Zhou👋
+# Welcome to Zihao Zhou's homepage!👋
 
 ## EDUCATION
 **South China University of Technology(SCUT)**, Guangzhou, China.<br />
