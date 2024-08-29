@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## EDUCATION
 **South China University of Technology(SCUT)**, Guangzhou, China.<br />
-*Candidate for Master’s Degree in Communication and Information Systems (09/2022-Present)*
+*Working towards Master’s Degree in Communication and Information Systems (09/2022-Present)*
 
 **South China University of Technology(SCUT)**, Guangzhou, China.<br />
 *Bachelor’s Degree in Information Engineering (09/2018-06/2022)*
