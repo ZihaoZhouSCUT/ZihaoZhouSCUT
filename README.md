@@ -36,7 +36,7 @@ My research interests include **Next generation wireless network**, **Wireless c
 ## Recent News
 - \[05/2024\](**Paper**) Our TORP accepted to [*IEEE Transactions on Vehicular Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - \[09/2023\](**Paper**) Our QRHER accepted to [*2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)*](https://events.vtsociety.org/vtc2023-fall/).
-- \[08/2023\](**Paper**) Our FD^2AQR accepted to [*2023 IEEE Global Communications Conference (GLOBECOM)*](https://globecom2023.ieee-globecom.org/).
+- \[08/2023\](**Paper**) Our $FD^2AQR$ accepted to [*2023 IEEE Global Communications Conference (GLOBECOM)*](https://globecom2023.ieee-globecom.org/).
 
 ## COOPERATION AND CONTACT
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
