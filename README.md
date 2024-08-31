@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 My research interests include **Next generation wireless network**, **Wireless communication**, **Network protocols**, **Optimization** and **Internet of things (IoT)**.
 
 ## Recent News
-- \[05/2024\](**Paper**) Our paper "Optimized Routing Protocol Through Exploitation of Trajectory Knowledge for UAV Swarms" accepted to [*IEEE Transactions on Vehicular Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
+- \[05/2024\](**Paper**) Our TORP accepted to [*IEEE Transactions on Vehicular Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 - \[0/2023\](**Paper**) Our paper "A Distributed and Adaptive Routing Protocol for UAV-aided Emergency Networks" accepted to [*2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)*](https://events.vtsociety.org/vtc2023-fall/).
 
 ## COOPERATION AND CONTACT
