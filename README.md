@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ## RESEARCH INTERESTS
 My research interests include **Next generation wireless network**, **Wireless communication**, **Network protocols**, **Optimization** and **Internet of things (IoT)**.
 
+## Recent News
+
 ## COOPERATION AND CONTACT
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
 - 📫 How to reach me: eezihaozhou@gmail.com or 202220111769@mail.scut.edu.cn
