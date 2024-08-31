@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 My research interests include **Next generation wireless network**, **Wireless communication**, **Network protocols**, **Optimization** and **Internet of things (IoT)**.
 
 ## Recent News
+- \[05/2024\](**Paper**) Our paper "Optimized Routing Protocol Through Exploitation of Trajectory Knowledge for UAV Swarms" accepted to [*IEEE Transactions on Vehicular Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
 
 ## COOPERATION AND CONTACT
 - 🤔 I’m currently developing a **simulation platform for UAV network communication** in Python.
