@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - **Z. Zhou**, S. Wen and W. Guan, “RSE-based optical camera communication in underwater scenery with bubble degradation,” in [*2021 Optical Fiber Communication Conference (OFC)*](https://ieeexplore.ieee.org/xpl/conhome/9489393/proceeding), 2021, pp. M2B-2. [[link]](https://opg.optica.org/abstract.cfm?uri=OFC-2021-M2B.2)
 
 ## RESEARCH INTERESTS
-My research interests include **Next generation wireless network**, **Wireless communication**, **Network protocols**, **Optimization** and **Internet of things (IoT)**.
+My research interests include **Next generation wireless network**, **Wireless communication**, **Network protocols**, **Optimization**, **Performance analysis for wireless network** and **Internet of things (IoT)**.
 
 ## Recent News
 - \[05/2024\](**Paper**) Our TORP accepted to [*IEEE TVT*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
